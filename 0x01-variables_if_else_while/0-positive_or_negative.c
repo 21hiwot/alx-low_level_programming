@@ -1,12 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+/* more headers goes there */
 /**
- * main - main function to generate a random number
+* main - entry point
  *
  * return: Alwas 0 (success)
- *
  */
+/* betty style doc for function main goes there */
  int main(void)
 {
 
