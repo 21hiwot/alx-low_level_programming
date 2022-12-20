@@ -1,10 +1,10 @@
  /**
- *  reset_to_98 - takes a pointet to an int parameter
- *  and updates the value it point to 98
+ * reset_to_98 - takes a pointet to an int parameter
+ * and updates the value it point to 98
  * 
- *  @an: int paramrter
+ * @an: int paramrter
  *
- *  Return: Nothing
+ * Return: Nothing
  */
 
 void reset_to_98(int *n)
