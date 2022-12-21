@@ -2,10 +2,10 @@
 #include <string.h>
 
 /**
- *reset_to_98 - takes a pointet to an int parameter
- * and updates the value it point to 98
+ * reset_to_98 -function that  takes a pointet to an int parameter and
+ * update the value it point to 98
  * 
- * @an: int paramrter
+ * @an: This is the entry
  *
  * Return: Nothing
  */
