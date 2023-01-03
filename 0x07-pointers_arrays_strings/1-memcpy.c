@@ -5,7 +5,7 @@
  *
  * @dest: char pointer
  * @src: char pointer
- * @n: unsigned int
+ * @n: unsigned int;
  *
  * Return: dest
  */
