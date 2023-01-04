@@ -1,13 +1,12 @@
-#ifndef holberton.h
-#define holberton.h
+#ifndef "holberton.h"
 
 /**
  * file: main.h
- * auth: me
+ * auth: me hiwot
  * dece: header file containing prototypes for all functions
  * used in the 0x0 - recurion directory.
  */
-int _putchar(char C);
+int _putchar(char c);
 void _puts_recursion(char *s);
 void _print_rev_recursion(char *s);
 int _strlen_recursion(char *s);
@@ -19,4 +18,3 @@ int is_palindrome(char *s);
 int wildcmp(char *s1, char *s2);
 
 #endif
-
