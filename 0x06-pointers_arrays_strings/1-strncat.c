@@ -8,13 +8,16 @@
 * _strncat: Concatenates two strings
 */
 
-char _strncat(char *dest, char *src, int n)
+char *_strncat(char *dest, char *src, int n)
 {
 int index = 0;
 int dest_lne = 0;
+
 while (dest[index++])
-dest_len++;
+dest_lne++;
+
 for (index = 0; src[index] && index < n; index++)
-dest[dest_len++] = src[index];
+dest[dest_lne++] = src[index];
+
 return (dest);
 }
