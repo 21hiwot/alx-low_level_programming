@@ -1,7 +1,7 @@
-#ifndef MAIN.H
-#define MAIN.h
+#ifndef holberton.h
+#define holberton.h
 
-/*
+/**
  * file: main.h
  * auth: me
  * dece: header file containing prototypes for all functions
